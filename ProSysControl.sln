@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{52396FC5-7DD4-469C-813E-0BC99C9C2DA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProSysControl", "ProSysControl\ProSysControl.csproj", "{5429D4CA-CDFB-40A8-87AC-86301ED29A6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52396FC5-7DD4-469C-813E-0BC99C9C2DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52396FC5-7DD4-469C-813E-0BC99C9C2DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52396FC5-7DD4-469C-813E-0BC99C9C2DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52396FC5-7DD4-469C-813E-0BC99C9C2DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5429D4CA-CDFB-40A8-87AC-86301ED29A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5429D4CA-CDFB-40A8-87AC-86301ED29A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5429D4CA-CDFB-40A8-87AC-86301ED29A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5429D4CA-CDFB-40A8-87AC-86301ED29A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
